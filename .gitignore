@@ -1,0 +1,48 @@
+# dependencies
+node_modules/
+
+# output
+dist
+out
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs/
+*.log
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# environment
+.env
+.env.local
+.env.*.local
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# IDE
+.idea
+.vscode
+
+# OS
+.DS_Store
+
+# keys (NEVER commit)
+keypair.json
+keypair_bytes.txt
+*.pem
+*.key
+
+# demo artifacts (generated)
+demo_*.txt
+
+# local validator ledger
+test-ledger/
+
+# docs (generated SVG/HTML diagrams)
+docs/*.html
