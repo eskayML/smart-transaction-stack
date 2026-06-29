@@ -2,7 +2,6 @@
 
 A production-grade Solana transaction infrastructure stack built for the Superteam Nigeria Advanced Infrastructure Challenge.
 
-**Prize:** $5,000 USDG | **Deadline:** July 13, 2026 | **Team:** [Your Name]
 
 ## Overview
 
